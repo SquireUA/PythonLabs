@@ -30,9 +30,6 @@ import random
 
 ### Контрольні запитання
 
-my_dict = {'a': 1, 'b': 2, 'c': 3}
-my_dict.update({'d': 4})
-
 print(my_dict)
 print("Завдання 1")
 p = []
